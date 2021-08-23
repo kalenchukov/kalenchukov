@@ -14,5 +14,5 @@
 ### Проекты
 * Разрабатываю REST API на чистой Java;
 * Поддерживаю и улучшаю API на чистом PHP;
-* Сделал веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP;
+* Веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP;
 * Владею доменными именами: humanhill.ru, humanhill.online.
