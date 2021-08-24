@@ -1,7 +1,7 @@
 ### Привет!
 Я увлечён интернетом, веб-разработкой и программированием с 2003 года.
 
-### Работаю в последнее время с:
+### Работаю в последнее время с
 * Java, PHP;
 * API, REST API, OAuth, RegEx, AJAX, JSON;
 * HTML, CSS, SQL;
@@ -14,5 +14,5 @@
 ### Проекты
 * Разрабатываю REST API на чистой Java;
 * Поддерживаю и улучшаю API на чистом PHP;
-* Веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP;
+* Веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP + MySQL;
 * Владею доменными именами: humanhill.ru, humanhill.online.
