@@ -3,7 +3,8 @@
 
 ### Работаю в последнее время с
 * Java, PHP
-* API, REST API, OAuth, RegEx, AJAX, JSON
+* API, REST API
+* RegEx, OAuth, AJAX, JSON
 * HTML, CSS, SQL
 * Git
 * MySQL
