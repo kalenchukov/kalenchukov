@@ -23,8 +23,13 @@
 * Работе с API сервисами
 * Работе с электронной почтой
 
+### Сейчас интересуюсь
+* Hibernate
+* SWING
+* Spring Framework
+
 ### Проекты
 * Разрабатываю REST API на Java
-* Поддерживаю и улучшаю API на чистом PHP
+* Поддерживаю и совершенствую API на чистом PHP
 * Веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP + MySQL
 * Владею доменными именами: humanhill.ru, humanhill.online
