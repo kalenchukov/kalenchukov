@@ -12,7 +12,7 @@
 * Intellij IDEA, PHPStorm, phpMyAdmin, GitHub
 
 ### Имею опыт в
-* Создании API, REST API
+* Создании API, REST API сервисов
 * Проектировании баз данных
 * Парсинге сайтов
 * Создании CRUD приложений
