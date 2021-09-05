@@ -10,7 +10,10 @@
 * MySQL
 * Nginx HTTP Server, Apache HTTP Server
 * Linux, Windows
-* Intellij IDEA, PHPStorm, phpMyAdmin, GitHub
+* Intellij IDEA, PHPStorm, Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub
+
+### Был навык работы с
+* Delphi, Visual Basic
 
 ### Имею опыт в
 * Создании API, REST API сервисов
@@ -28,7 +31,7 @@
 
 ### Сейчас интересуюсь
 * Hibernate
-* SWING
+* Swing
 * Spring Framework
 
 ### Проекты
