@@ -31,7 +31,6 @@
 
 ### Сейчас интересуюсь
 * Hibernate
-* Swing
 * Spring Framework
 
 ### Проекты
