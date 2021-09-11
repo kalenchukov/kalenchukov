@@ -34,7 +34,7 @@
 * Spring Framework
 
 ### Проекты
-* Разрабатываю REST API на Java
-* Поддерживаю и совершенствую API на чистом PHP
+* Разрабатываю REST API на Java + Hibernate + MySQL
+* Поддерживаю и совершенствую API на чистом PHP + MySQL
 * Веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP + MySQL
 * Владею доменными именами: humanhill.ru, humanhill.online
