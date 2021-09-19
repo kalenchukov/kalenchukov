@@ -32,6 +32,7 @@
 ### Сейчас интересуюсь
 * Hibernate
 * Spring Framework
+* JavaFX
 
 ### Проекты
 * Разрабатываю REST API на Java + Hibernate + MySQL
