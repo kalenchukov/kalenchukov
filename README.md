@@ -6,6 +6,7 @@
 * API, REST API, HTTP
 * RegEx, OAuth, AJAX, JSON
 * HTML, CSS, SQL
+* JDBC, PDO
 * Git
 * MySQL
 * Nginx HTTP Server, Apache HTTP Server
@@ -25,9 +26,10 @@
 * Проектировании пользовательских интерфейсов
 * Вёрстке веб-страниц
 * Написании технической документации
-* Создании веб-серверов, файловых серверов, серверов баз данных
+* Создании веб-серверов, файловых серверов, серверов баз данных на Ubuntu Server
 * Работе с API сервисами
 * Работе с электронной почтой
+* Работе с датой, временем и часовыми поясами
 
 ### Сейчас интересуюсь
 * Hibernate
@@ -35,7 +37,7 @@
 * JavaFX
 
 ### Проекты
-* Разрабатываю REST API на Java + Hibernate + MySQL
+* Разрабатываю REST API на Java + Hibernate + MySQL + ...
 * Поддерживаю и совершенствую API на чистом PHP + MySQL
 * Веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP + MySQL
 * Владею доменными именами: humanhill.ru, humanhill.online
