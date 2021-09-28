@@ -12,6 +12,7 @@
 * Nginx HTTP Server, Apache HTTP Server
 * Linux, Windows
 * Intellij IDEA, PHPStorm, Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub
+* ООП
 
 ### Был навык работы с
 * Delphi, Visual Basic
