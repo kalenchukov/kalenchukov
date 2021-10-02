@@ -6,13 +6,14 @@
 * API, REST API, HTTP
 * RegEx, OAuth, AJAX, JSON
 * HTML, CSS, SQL
+* MySQL
 * JDBC, PDO
 * Git
-* MySQL
+* Apache Maven
 * Nginx HTTP Server, Apache HTTP Server
 * Linux, Windows
 * Intellij IDEA, PHPStorm, Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub
-* ООП
+* ООП, SOLID
 
 ### Был навык работы с
 * Delphi, Visual Basic
