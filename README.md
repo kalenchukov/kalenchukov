@@ -7,7 +7,7 @@
 * RegEx, OAuth, AJAX, JSON
 * HTML, CSS, SQL
 * MySQL
-* JDBC, PDO
+* Hibernate, JDBC, PDO
 * Git
 * Apache Maven
 * Nginx HTTP Server, Apache HTTP Server
@@ -35,7 +35,6 @@
 * Создании инсталляторов программ
 
 ### Сейчас интересуюсь
-* Hibernate
 * Spring Framework
 * JavaFX
 
@@ -43,6 +42,7 @@
 * Разрабатываю REST API на Java + Hibernate + MySQL + ...
 * Поддерживаю и совершенствую API на чистом PHP + MySQL
 * Веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP + MySQL
+* Неполное описание проекта «НаВиду». Проект закрыл и прекратил разработку. ([статья на habr.com](https://habr.com/ru/post/136132/))
 * Владею доменными именами: humanhill.ru, humanhill.online
 
 ### Образование
