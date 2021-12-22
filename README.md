@@ -4,8 +4,8 @@
 ### Работаю с
 * Java, PHP, ~~JavaScript~~, ~~Delphi~~, ~~Visual Basic~~
 * API, REST API, HTTP
-* RegEx, OAuth, AJAX, JSON
-* HTML, ~~XML~~, CSS, SQL
+* RegEx, OAuth, AJAX
+* HTML, ~~XML~~, CSS, SQL, JSON
 * MySQL
 * Git
 * Apache Maven
