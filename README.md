@@ -11,6 +11,7 @@
 * Apache Maven
 * Nginx HTTP Server, ~~Apache HTTP Server~~
 * Linux, ~~Windows~~
+* ООП, SOLID
 * Intellij IDEA, PHPStorm, Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub
 
 ### Имею опыт в
@@ -33,6 +34,8 @@
 ### Сейчас интересуюсь
 * Hibernate
 * Spring Framework
+* JUnit
+* Log4j
 * JavaFX
 
 ### Проекты
