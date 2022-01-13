@@ -2,7 +2,7 @@
 Я увлечён интернетом, веб-разработкой и программированием с 2003 года.
 
 ### Работаю с
-* Java, PHP, ~~JavaScript~~, ~~Delphi~~, ~~Visual Basic~~
+* Java, PHP, ~~Delphi~~, ~~Visual Basic~~
 * API, REST API, HTTP
 * Spring Framework
 * Hibernate
