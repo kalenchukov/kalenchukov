@@ -4,6 +4,8 @@
 ### Работаю с
 * Java, PHP, ~~JavaScript~~, ~~Delphi~~, ~~Visual Basic~~
 * API, REST API, HTTP
+* Spring Framework
+* Hibernate
 * RegEx, OAuth, AJAX
 * HTML, ~~XML~~, CSS, SQL, JSON
 * MySQL
@@ -32,8 +34,6 @@
 * Создании инсталляторов программ
 
 ### Сейчас интересуюсь
-* Hibernate
-* Spring Framework
 * JUnit
 * Log4j
 * JavaFX
