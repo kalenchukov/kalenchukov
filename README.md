@@ -13,7 +13,7 @@
 * Apache Maven
 * Nginx HTTP Server, ~~Apache HTTP Server~~
 * Linux, ~~Windows~~
-* ООП, SOLID
+* ООП, SOLID, DRY, KISS, YAGNI
 * Intellij IDEA, PHPStorm, Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub
 
 ### Имею опыт в
