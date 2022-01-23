@@ -6,7 +6,8 @@
 * API, REST API, HTTP
 * Spring Framework
 * Hibernate
-* RegEx, OAuth, AJAX
+* RegEx, AJAX
+* OAuth, JWT
 * HTML, ~~XML~~, CSS, SQL, JSON
 * MySQL
 * Git
