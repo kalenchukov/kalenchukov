@@ -40,7 +40,8 @@
 * JavaFX
 
 ### Проекты
-* Разрабатываю REST API на Java + Hibernate + MySQL + ...
+* Разрабатываю фреймворк REST API на Java
+* Разрабатываю REST API для собственного проекта на Java + Hibernate + MySQL + ...
 * Поддерживаю и совершенствую API на чистом PHP + MySQL
 * Веб-сервер на Ubuntu Server + Nginx HTTP Server + PHP + MySQL
 * Неполное описание проекта «НаВиду». Проект закрыл и прекратил разработку. ([статья на habr.com](https://habr.com/ru/post/136132/))
