@@ -6,6 +6,7 @@
 * API, REST API, HTTP
 * Spring Framework
 * Hibernate
+* Log4j
 * RegEx, AJAX
 * OAuth, JWT
 * HTML, ~~XML~~, CSS, SQL, JSON
@@ -36,7 +37,6 @@
 
 ### Сейчас интересуюсь
 * JUnit
-* Log4j
 * JavaFX
 
 ### Проекты
