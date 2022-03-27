@@ -7,9 +7,8 @@
 * Spring Framework
 * Hibernate
 * Log4j
-* RegEx, AJAX
 * OAuth, JWT
-* HTML, ~~XML~~, CSS, SQL, JSON
+* HTML, ~~XML~~, CSS, SQL, JSON, RegEx, AJAX
 * MySQL
 * Git
 * Apache Maven
