@@ -13,7 +13,9 @@
 * Apache Maven
 * Nginx HTTP Server, ~~Apache HTTP Server~~
 * Linux, ~~Windows~~
-* Intellij IDEA, PHPStorm, Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub, SmartGit
+* Intellij IDEA, PHPStorm
+* Sublime Text 3, ~~PSPad~~, ~~Notepad++~~, 
+* Firefox Developer Edition, phpMyAdmin, GitHub, ~~SmartGit~~
 
 ### Имею опыт в
 * Создании API, REST API сервисов
