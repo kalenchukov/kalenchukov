@@ -4,7 +4,7 @@
 * Java, PHP, ~~Delphi~~, ~~Visual Basic~~
 * API, REST API, HTTP
 * Spring Framework
-* Hibernate
+* PDO, JDBC, Hibernate
 * Log4j
 * OAuth, JWT
 * HTML, ~~XML~~, CSS, SQL, JSON, RegEx, AJAX
@@ -13,7 +13,7 @@
 * Apache Maven
 * Nginx HTTP Server, ~~Apache HTTP Server~~
 * Linux, ~~Windows~~
-* Intellij IDEA, PHPStorm, Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub
+* Intellij IDEA, PHPStorm, Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub, SmartGit
 
 ### Имею опыт в
 * Создании API, REST API сервисов
