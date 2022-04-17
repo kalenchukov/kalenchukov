@@ -8,7 +8,7 @@
 * Log4j
 * OAuth, JWT
 * HTML, ~~XML~~, CSS, SQL, JSON, RegEx, AJAX
-* MySQL, --SQLite--
+* MySQL, ~~SQLite~~
 * Git
 * Apache Maven
 * Nginx HTTP Server, ~~Apache HTTP Server~~
