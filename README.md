@@ -14,8 +14,7 @@
 * Nginx HTTP Server, ~~Apache HTTP Server~~
 * Linux, ~~Windows~~
 * Intellij IDEA, PHPStorm
-* Sublime Text 3, ~~PSPad~~, ~~Notepad++~~, 
-* Firefox Developer Edition, phpMyAdmin, GitHub, ~~SmartGit~~
+* Sublime Text 3, Firefox Developer Edition, phpMyAdmin, GitHub
 
 ### Имею опыт в
 * Создании API, REST API сервисов
