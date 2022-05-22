@@ -79,6 +79,7 @@
 
 
 ### Используемое ПО
+* DB Browser for SQLite <sup>2021-\*</sup>
 * Intellij IDEA <sup>2020-\*</sup>
 * GitHub <sup>2020-\*</sup>
 * phpMyAdmin <sup>2009-\*</sup>
