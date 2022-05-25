@@ -1,4 +1,4 @@
-Я увлечён Интернетом, web-разработкой и программированием с 2003 года. Все это время, уделял разработке все свободное время и многому научился. Большая часть из этого - практическое самообучение. Ниже перечислил технологий, с которыми работал или работаю по сей день.
+Я увлечён web-разработкой с 2003 года. Ниже перечислил технологии, с которыми работал или работаю по сей день.
 
 ### Работаю с
 * Java <sup>2020-\*</sup>
@@ -10,17 +10,17 @@
     * Spring Framework (Core, Data) <sup>2021-\*</sup>
 * PHP <sup>2006-\*</sup>
     * PDO <sup>2018-\*</sup>
-* ~~Delphi~~ <sup>2006-2012</sup>
-* ~~Visual Basic~~ <sup>2005-2006</sup>
+* Delphi <sup>2006-2012</sup>
+* Visual Basic <sup>2005-2006</sup>
 * Git <sup>2020-\*</sup>
 * OAuth <sup>2019-\*</sup>, JWT <sup>2019-\*</sup>
-* ~~JavaScript~~ <sup>2010-2014</sup>, AJAX <sup>2010-\*</sup>, DOM <sup>2010-\*</sup>
+* JavaScript <sup>2010-2014</sup>, AJAX <sup>2010-\*</sup>, DOM <sup>2010-\*</sup>
 * API <sup>2010-\*</sup>, REST API <sup>2019-\*</sup>
 * RegEx <sup>2010-\*</sup>
 * MySQL <sup>2009-\*</sup>
 * SQLite <sup>2006-*</sup>
 * CSS <sup>2005-\*</sup>
-* ~~XML~~ <sup>2008-2008</sup>, JSON <sup>2011-\*</sup>, Markdown <sup>2020-\*</sup>
+* XML <sup>2008-2008</sup>, JSON <sup>2011-\*</sup>, Markdown <sup>2020-\*</sup>
 * HTTP <sup>2006-\*</sup>
 * SQL <sup>2008-\*</sup>
 * HTML <sup>2003-\*</sup>
@@ -30,7 +30,7 @@
 * Проектировании реляционных баз данных
 * Парсинге web-сайтов
 * Разработке CRUD приложений
-* Разработке web-сайтов без фремфорков: социальных сетей, форумов и тп.
+* Разработке web-сайтов без фремворков: социальных сетей, форумов и тп.
 * Мультиязычности приложений
 * Безопасной разработке web-сайтов
 * Проектировании пользовательских веб-интерфейсов
@@ -77,10 +77,10 @@
 * GitHub <sup>2020-\*</sup>
 * phpMyAdmin <sup>2009-\*</sup>
 * DB Browser for SQLite <sup>2021-\*</sup>
-* ~~Opera~~ <sup>2008-2018</sup>, Firefox Developer Edition <sup>2019-\*</sup>
-* ~~Apache HTTP Server~~ <sup>2008-2019</sup>, Nginx HTTP Server <sup>2019-\*</sup>
-* ~~PSPad~~ <sup>2006-2018</sup>, Sublime Text 3 <sup>2019-\*</sup>, PHPStorm <sup>2021-\*</sup>
-* ~~Windows~~ <sup>2000-2017</sup>, Linux <sup>2017-\*</sup>
+* Opera <sup>2008-2018</sup>, Firefox Developer Edition <sup>2019-\*</sup>
+* Apache HTTP Server <sup>2008-2019</sup>, Nginx HTTP Server <sup>2019-\*</sup>
+* PSPad <sup>2006-2018</sup>, Sublime Text 3 <sup>2019-\*</sup>, PHPStorm <sup>2021-\*</sup>
+* Windows <sup>2000-2017</sup>, Linux <sup>2017-\*</sup>
 
 ### Фриланс
 * Разработка парсеров web-сайтов на PHP + MySQL
