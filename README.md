@@ -61,6 +61,7 @@
 * RabbitMQ
 * Lombok
 * Mockito
+* Thymeleaf
 
 [//]: # (* Apache Tomcat)
 [//]: # (* Gradle)
