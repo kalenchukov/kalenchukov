@@ -40,7 +40,7 @@
 
 ### Используемое ПО
 * Intellij IDEA <sup>2020-\*</sup>
-* GitHub <sup>2020-\*</sup>
+* GitHub <sup>2021-\*</sup>
 * phpMyAdmin <sup>2009-\*</sup>
 * DB Browser for SQLite <sup>2021-\*</sup>
 * Opera <sup>2008-2018</sup>, Firefox Developer Edition <sup>2019-\*</sup>
