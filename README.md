@@ -68,7 +68,7 @@
 
 ### Проекты
 * Разрабатываю фреймворк REST API на Java
-* Разрабатываю проекта на Java + Hibernate + MySQL + ...
+* Разрабатываю проект на Java + Hibernate + MySQL + ...
 * Поддерживаю и совершенствую API на чистом PHP + MySQL
 * Web-сервер на Ubuntu Server + Nginx HTTP Server + PHP + MySQL
 * Неполное описание проекта «НаВиду». Проект закрыл и прекратил разработку. ([статья на habr.com](https://habr.com/ru/post/136132/))
