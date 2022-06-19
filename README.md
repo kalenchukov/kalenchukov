@@ -25,6 +25,29 @@
 * SQL <sup>2008-\*</sup>
 * HTML <sup>2003-\*</sup>
 
+### Сейчас интересует
+* Spring Framework (Boot, Web, Security, Test)
+* Docker
+* Apache Kafka
+* Kubernetes
+* RabbitMQ
+* Lombok
+* Mockito
+* Thymeleaf
+
+[//]: # (* Apache Tomcat)
+[//]: # (* Gradle)
+
+### Используемое ПО
+* Intellij IDEA <sup>2020-\*</sup>
+* GitHub <sup>2020-\*</sup>
+* phpMyAdmin <sup>2009-\*</sup>
+* DB Browser for SQLite <sup>2021-\*</sup>
+* Opera <sup>2008-2018</sup>, Firefox Developer Edition <sup>2019-\*</sup>
+* Apache HTTP Server <sup>2008-2019</sup>, Nginx HTTP Server <sup>2019-\*</sup>
+* PSPad <sup>2006-2018</sup>, Sublime Text 3 <sup>2019-\*</sup>, PHPStorm <sup>2021-\*</sup>
+* Windows <sup>2000-2017</sup>, Linux <sup>2017-\*</sup>
+
 ### Имею опыт в
 * Разработке API, REST API сервисов
 * Проектировании реляционных баз данных
@@ -53,35 +76,12 @@
 * Паттерны проектирования
 * SOLID
 
-### Сейчас интересует
-* Spring Framework (Boot, Web, Security, Test)
-* Docker
-* Apache Kafka
-* Kubernetes
-* RabbitMQ
-* Lombok
-* Mockito
-* Thymeleaf
-
-[//]: # (* Apache Tomcat)
-[//]: # (* Gradle)
-
 ### Проекты
 * Разрабатываю фреймворк REST API на Java
 * Разрабатываю проект на Java + Hibernate + MySQL + ...
 * Поддерживаю и совершенствую API на чистом PHP + MySQL
 * Web-сервер на Ubuntu Server + Nginx HTTP Server + PHP + MySQL
 * Неполное описание проекта «НаВиду». Проект закрыл и прекратил разработку. ([статья на habr.com](https://habr.com/ru/post/136132/))
-
-### Используемое ПО
-* Intellij IDEA <sup>2020-\*</sup>
-* GitHub <sup>2020-\*</sup>
-* phpMyAdmin <sup>2009-\*</sup>
-* DB Browser for SQLite <sup>2021-\*</sup>
-* Opera <sup>2008-2018</sup>, Firefox Developer Edition <sup>2019-\*</sup>
-* Apache HTTP Server <sup>2008-2019</sup>, Nginx HTTP Server <sup>2019-\*</sup>
-* PSPad <sup>2006-2018</sup>, Sublime Text 3 <sup>2019-\*</sup>, PHPStorm <sup>2021-\*</sup>
-* Windows <sup>2000-2017</sup>, Linux <sup>2017-\*</sup>
 
 ### Фриланс
 * Разработка парсеров web-сайтов на PHP + MySQL
