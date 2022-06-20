@@ -8,6 +8,7 @@
     * Apache Maven <sup>2021-\*</sup>
     * JUnit <sup>2021-\*</sup>
     * Spring Framework (Core, Data) <sup>2021-\*</sup>
+<!--     * Lombok <sup>2022-\*</sup>-->
 * PHP <sup>2006-\*</sup>
     * PDO <sup>2018-\*</sup>
 * Delphi <sup>2006-2012</sup>
@@ -26,17 +27,15 @@
 * HTML <sup>2003-\*</sup>
 
 ### Сейчас интересует
-* Spring Framework (Boot, Web, Security, Test)
+* Spring Framework (Boot, Web, MVC, Security, Test)
 * Docker
 * Apache Kafka
 * Kubernetes
 * RabbitMQ
-* Lombok
 * Mockito
 * Thymeleaf
-
-[//]: # (* Apache Tomcat)
-[//]: # (* Gradle)
+<!-- * Apache Tomcat -->
+<!-- * Gradle -->
 
 ### Используемое ПО
 * Intellij IDEA <sup>2020-\*</sup>
