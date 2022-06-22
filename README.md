@@ -27,7 +27,7 @@
 * HTML <sup>2003-\*</sup>
 
 ### Сейчас интересует
-* Spring Framework (Boot, Web, MVC, Security, Test)
+* Spring Framework (Boot, MVC, Security, Test)
 * Docker
 * Apache Kafka
 * Kubernetes
