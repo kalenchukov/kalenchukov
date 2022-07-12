@@ -7,7 +7,7 @@
     * JDBC <sup>2021-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
     * JUnit <sup>2021-\*</sup>
-    * Spring Framework (Core, Data) <sup>2021-\*</sup>
+    * Spring Framework (Core, MVC) <sup>2021-\*</sup>
 <!--     * Lombok <sup>2022-\*</sup>-->
 * PHP <sup>2006-\*</sup>
     * PDO <sup>2018-\*</sup>
@@ -18,8 +18,7 @@
 * JavaScript <sup>2010-2014</sup>, AJAX <sup>2010-\*</sup>, DOM <sup>2010-\*</sup>
 * API <sup>2010-\*</sup>, REST API <sup>2019-\*</sup>
 * RegEx <sup>2010-\*</sup>
-* MySQL <sup>2009-\*</sup>
-* SQLite <sup>2006-*</sup>
+* SQLite <sup>2006-*</sup>, MySQL <sup>2009-\*</sup>
 * CSS <sup>2005-\*</sup>
 * XML <sup>2008-2008</sup>, JSON <sup>2011-\*</sup>, Markdown <sup>2020-\*</sup>
 * HTTP <sup>2006-\*</sup>
@@ -27,7 +26,7 @@
 * HTML <sup>2003-\*</sup>
 
 ### Сейчас интересует
-* Spring Framework (Boot, MVC, Security, Test)
+* Spring Framework (Boot, Data, Security, Test)
 * Docker
 * Apache Kafka
 * Kubernetes
