@@ -33,6 +33,7 @@
 * RabbitMQ
 * Mockito
 * Thymeleaf
+* JavaFX
 <!-- * Apache Tomcat -->
 <!-- * Gradle -->
 
