@@ -7,7 +7,7 @@
     * JDBC <sup>2021-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
     * JUnit <sup>2021-\*</sup>
-    * Spring Framework (Core, MVC) <sup>2021-\*</sup>
+    * Spring Framework <sup>2021-\*</sup>
 <!--     * Lombok <sup>2022-\*</sup>-->
 * PHP <sup>2006-\*</sup>
     * PDO <sup>2018-\*</sup>
@@ -25,15 +25,15 @@
 * SQL <sup>2008-\*</sup>
 * HTML <sup>2003-\*</sup>
 
-### Сейчас интересует
-* Spring Framework (Boot, Data, Security, Test)
-* Docker
-* Apache Kafka
-* Kubernetes
-* RabbitMQ
-* Mockito
-* Thymeleaf
-* JavaFX
+<!-- ### Сейчас интересует -->
+<!-- * Spring Framework (Boot, Data, Security, Test) -->
+<!-- * Docker -->
+<!-- * Apache Kafka -->
+<!-- * Kubernetes -->
+<!-- * RabbitMQ -->
+<!-- * Mockito -->
+<!-- * Thymeleaf -->
+<!-- * JavaFX -->
 <!-- * Apache Tomcat -->
 <!-- * Gradle -->
 
