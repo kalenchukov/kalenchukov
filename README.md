@@ -8,9 +8,7 @@
     * Apache Maven <sup>2021-\*</sup>
     * JUnit <sup>2021-\*</sup>
     * Spring Framework <sup>2021-\*</sup>
-<!--     * Lombok <sup>2022-\*</sup>-->
 * PHP <sup>2006-\*</sup>
-<!--     * PDO <sup>2018-\*</sup>-->
 * Delphi <sup>2006-2012</sup>
 * Visual Basic <sup>2005-2006</sup>
 * Git <sup>2020-\*</sup>
@@ -24,6 +22,8 @@
 * HTTP <sup>2006-\*</sup>
 * SQL <sup>2008-\*</sup>
 * HTML <sup>2003-\*</sup>
+<!--     * Lombok <sup>2022-\*</sup>-->
+<!--     * PDO <sup>2018-\*</sup>-->
 
 <!-- ### Сейчас интересует -->
 <!-- * Spring Framework (Boot, Data, Security, Test) -->
