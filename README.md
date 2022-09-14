@@ -45,14 +45,20 @@
 <!-- * Gradle -->
 
 ### Используемое ПО
-* Intellij IDEA <sup>2020-\*</sup>
 * GitHub <sup>2021-\*</sup>
-* phpMyAdmin <sup>2009-\*</sup>
 * DB Browser for SQLite <sup>2021-\*</sup>
-* Opera <sup>2008-2018</sup>, Firefox Developer Edition <sup>2019-\*</sup>
-* Apache HTTP Server <sup>2008-2019</sup>, Nginx HTTP Server <sup>2019-\*</sup>
-* PSPad <sup>2006-2018</sup>, Sublime Text 3 <sup>2019-\*</sup>, PHPStorm <sup>2021-\*</sup>
-* Windows <sup>2000-2017</sup>, Linux <sup>2017-\*</sup>
+* PHPStorm <sup>2021-\*</sup>
+* Intellij IDEA <sup>2020-\*</sup>
+* SmartGit <sup>2020-2021</sup>
+* Firefox Developer Edition <sup>2019-\*</sup>
+* Nginx HTTP Server <sup>2019-\*</sup>
+* Sublime Text 3 <sup>2019-\*</sup>
+* Linux <sup>2017-\*</sup>
+* phpMyAdmin <sup>2009-\*</sup>
+* Apache HTTP Server <sup>2008-2019</sup>
+* Opera <sup>2008-2018</sup>
+* PSPad <sup>2006-2018</sup>
+* Windows <sup>2000-2017</sup>
 
 ### Имею опыт в
 * Разработке API, REST API сервисов
