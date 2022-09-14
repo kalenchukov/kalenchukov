@@ -22,8 +22,8 @@
 * MySQL <sup>2009-\*</sup>
 * SQL <sup>2008-\*</sup>
 * XML <sup>2008-2008</sup>
-* HTTP <sup>2006-\*</sup>
 * PHP <sup>2006-\*</sup>
+* HTTP <sup>2006-\*</sup>
 * SQLite <sup>2006-*</sup>
 * Delphi <sup>2006-2012</sup>
 * Visual Basic <sup>2005-2006</sup>
