@@ -8,6 +8,8 @@
     * JDBC <sup>2021-\*</sup>
     * Hibernate <sup>2020-\*</sup>
     * Log4j <sup>2020-\*</sup>
+    * Lombok <sup>2022-\*</sup>
+* Docker <sup>2022-\*</sup>
 * Markdown <sup>2020-\*</sup>
 * Git <sup>2020-\*</sup>
 * OAuth <sup>2019-\*</sup>
@@ -29,12 +31,10 @@
 * Visual Basic <sup>2005-2006</sup>
 * CSS <sup>2005-\*</sup>
 * HTML <sup>2003-\*</sup>
-<!--     * Lombok <sup>2022-\*</sup>-->
 <!--     * PDO <sup>2018-\*</sup>-->
 
 <!-- ### Сейчас интересует -->
 <!-- * Spring Framework (Boot, Data, Security, Test) -->
-<!-- * Docker -->
 <!-- * Apache Kafka -->
 <!-- * Kubernetes -->
 <!-- * RabbitMQ -->
