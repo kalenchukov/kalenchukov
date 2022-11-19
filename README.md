@@ -2,7 +2,7 @@
 
 ### Используемые технологии
 * Java <sup>2020-\*</sup>
-    * Spring Framework <sup>2021-\*</sup>
+    * Spring Framework (Core, MVC, Boot, Data, AOP) <sup>2021-\*</sup>
     * JUnit <sup>2021-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
     * JDBC <sup>2021-\*</sup>
@@ -32,14 +32,13 @@
 * CSS <sup>2005-\*</sup>
 * HTML <sup>2003-\*</sup>
 <!--     * PDO <sup>2018-\*</sup>-->
+<!--     * Mockito <sup>2022-\*</sup>-->
+<!--     * Thymeleaf <sup>2022-\*</sup>-->
 
 <!-- ### Сейчас интересует -->
-<!-- * Spring Framework (Boot, Data, Security, Test) -->
 <!-- * Apache Kafka -->
 <!-- * Kubernetes -->
 <!-- * RabbitMQ -->
-<!-- * Mockito -->
-<!-- * Thymeleaf -->
 <!-- * JavaFX -->
 <!-- * Apache Tomcat -->
 <!-- * Gradle -->
