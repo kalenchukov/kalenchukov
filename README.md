@@ -4,35 +4,35 @@
 * Java <sup>2020-\*</sup>
     * Spring Framework (Core, MVC, Boot, Data, AOP) <sup>2021-\*</sup>
     * JUnit <sup>2021-\*</sup>
+    * Mockito <sup>2022-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
     * JDBC <sup>2021-\*</sup>
     * Hibernate <sup>2020-\*</sup>
     * Log4j <sup>2020-\*</sup>
     * Lombok <sup>2022-\*</sup>
+* PHP <sup>2006-\*</sup>
+    * PDO <sup>2018-\*</sup>
+* MySQL <sup>2009-\*</sup>
+* SQL <sup>2008-\*</sup>
+* REST API <sup>2019-\*</sup>
+* RegEx <sup>2010-\*</sup>
+* Git <sup>2020-\*</sup>
 * Docker <sup>2022-\*</sup>
 * Markdown <sup>2020-\*</sup>
-* Git <sup>2020-\*</sup>
 * OAuth <sup>2019-\*</sup>
 * JWT <sup>2019-\*</sup>
-* REST API <sup>2019-\*</sup>
 * JSON <sup>2011-\*</sup>
 * AJAX <sup>2010-\*</sup>
 * API <sup>2010-\*</sup>
 * DOM <sup>2010-\*</sup>
 * JavaScript <sup>2010-2014</sup>
-* RegEx <sup>2010-\*</sup>
-* MySQL <sup>2009-\*</sup>
-* SQL <sup>2008-\*</sup>
 * XML <sup>2008-2008</sup>
-* PHP <sup>2006-\*</sup>
 * HTTP <sup>2006-\*</sup>
 * SQLite <sup>2006-*</sup>
 * Delphi <sup>2006-2012</sup>
 * Visual Basic <sup>2005-2006</sup>
 * CSS <sup>2005-\*</sup>
 * HTML <sup>2003-\*</sup>
-<!--     * PDO <sup>2018-\*</sup>-->
-<!--     * Mockito <sup>2022-\*</sup>-->
 <!--     * Thymeleaf <sup>2022-\*</sup>-->
 
 <!-- ### Сейчас интересует -->
