@@ -10,6 +10,7 @@
     * Hibernate <sup>2020-\*</sup>
     * Log4j <sup>2020-\*</sup>
     * Lombok <sup>2022-\*</sup>
+    * H2 <sup>2022-\*</sup>
 * PHP <sup>2006-\*</sup>
     * PDO <sup>2018-\*</sup>
 * MySQL <sup>2009-\*</sup>
