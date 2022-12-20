@@ -1,18 +1,17 @@
 Увлечён web-разработкой и программированием с 2003 года. Обладаю логическим и алгоритмическим мышлением, вниманию к деталям, ответственный и усидчивый. Ниже перечислил технологии, с которыми работал или работаю по сей день.
 
 ## Используемые технологии
-* Java <sup>2020-\*</sup>
+* Java <sup>2019-\*</sup>
     * Spring Framework (Core, MVC, Boot, Data, AOP) <sup>2021-\*</sup>
     * JUnit <sup>2021-\*</sup>
     * Mockito <sup>2022-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
-    * JDBC <sup>2021-\*</sup>
+    * JDBC <sup>2020-\*</sup>
     * Hibernate <sup>2020-\*</sup>
     * Log4j <sup>2020-\*</sup>
     * Lombok <sup>2022-\*</sup>
     * H2 <sup>2022-\*</sup>
 * PHP <sup>2006-\*</sup>
-    * PDO <sup>2018-\*</sup>
 * MySQL <sup>2009-\*</sup>
 * REST API <sup>2019-\*</sup>
 * Git <sup>2020-\*</sup>
