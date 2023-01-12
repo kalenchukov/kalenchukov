@@ -301,7 +301,7 @@
 * Firefox Developer Edition <sup>2019-\*</sup>
 * Nginx HTTP Server <sup>2019-\*</sup>
 * Sublime Text 3 <sup>2019-\*</sup>
-* OS Linux <sup>2017-\*</sup>
+* OS Linux (Ubuntu) <sup>2017-\*</sup>
 * phpMyAdmin <sup>2009-\*</sup>
 * Apache HTTP Server <sup>2008-2019</sup>
 * Opera <sup>2008-2018</sup>
