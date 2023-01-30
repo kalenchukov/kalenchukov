@@ -16,7 +16,6 @@
 * REST API <sup>2019-\*</sup>
 * Git <sup>2020-\*</sup>
 * RegEx <sup>2010-\*</sup>
-* Docker <sup>2022-\*</sup>
 * OAuth <sup>2019-\*</sup>
 * JWT <sup>2019-\*</sup>
 * JSON <sup>2011-\*</sup>
@@ -32,6 +31,7 @@
 * HTML <sup>2003-\*</sup>
 <!--     * Thymeleaf <sup>2022-\*</sup>-->
 <!-- * Markdown <sup>2020-\*</sup> -->
+<!-- * Docker <sup>2022-\*</sup> -->
 
 <!-- ### Сейчас интересует -->
 <!-- * Apache Kafka -->
