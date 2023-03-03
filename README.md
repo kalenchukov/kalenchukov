@@ -2,7 +2,7 @@
 
 ## Используемые технологии
 * Java <sup>2020-\*</sup>
-    * Spring Framework (Core, MVC, Boot, Data, AOP) <sup>2021-\*</sup>
+    * Spring Framework (Core, MVC, Boot, JDBC, Data, AOP) <sup>2021-\*</sup>
     * JUnit <sup>2021-\*</sup>
     * Mockito <sup>2022-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
