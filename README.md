@@ -305,7 +305,7 @@
 * Nginx HTTP Server <sup>2019-\*</sup>
 * Sublime Text 3 <sup>2019-\*</sup>
 * Bash <sup>2017-\*</sup>
-* OS Linux (Ubuntu) <sup>2018-\*</sup>
+* OS Linux (Kubuntu) <sup>2018-\*</sup>
 * phpMyAdmin <sup>2009-\*</sup>
 * Apache HTTP Server <sup>2008-2019</sup>
 * Opera <sup>2008-2018</sup>
