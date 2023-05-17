@@ -18,20 +18,20 @@
 * Git <sup>2020-\*</sup>
 * RabbitMQ <sup>2023-\*</sup>
 * RegEx <sup>2010-\*</sup>
-* OAuth <sup>2019-\*</sup>
-* JWT <sup>2019-\*</sup>
-* JSON <sup>2011-\*</sup>
-* AJAX <sup>2010-\*</sup>
-* DOM <sup>2010-\*</sup>
-* JavaScript <sup>2010-2014</sup>
-* XML <sup>2008-2008</sup>
+<!-- * OAuth <sup>2019-\*</sup> -->
+<!-- * JWT <sup>2019-\*</sup> -->
+<!-- * JSON <sup>2011-\*</sup> -->
+<!-- * AJAX <sup>2010-\*</sup> -->
+<!-- * DOM <sup>2010-\*</sup> -->
+<!-- * JavaScript <sup>2010-2014</sup> -->
+<!-- * XML <sup>2008-2008</sup> -->
 * SQLite <sup>2006-*</sup>
-* Delphi <sup>2006-2012</sup>
+<!-- * Delphi <sup>2006-2012</sup> -->
 * SQL <sup>2008-\*</sup>
-* Visual Basic <sup>2005-2006</sup>
-* CSS <sup>2005-\*</sup>
-* HTML <sup>2003-\*</sup>
-<!--     * Thymeleaf <sup>2022-\*</sup>-->
+<!-- * Visual Basic <sup>2005-2006</sup> -->
+<!-- * CSS <sup>2005-\*</sup> -->
+<!-- * HTML <sup>2003-\*</sup> -->
+<!-- * Thymeleaf <sup>2022-\*</sup> -->
 <!-- * Markdown <sup>2020-\*</sup> -->
 <!-- * Docker <sup>2022-\*</sup> -->
 
