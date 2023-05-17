@@ -11,12 +11,13 @@
     * Log4j <sup>2020-\*</sup>
     * Lombok <sup>2022-\*</sup>
     * H2 <sup>2022-\*</sup>
-* PHP <sup>2006-\*</sup>
-* PostgreSQL <sup>2023-\*</sup>
-* MySQL <sup>2009-\*</sup>
-* REST API <sup>2019-\*</sup>
 * Git <sup>2020-\*</sup>
+* PostgreSQL <sup>2023-\*</sup>
 * RabbitMQ <sup>2023-\*</sup>
+* REST API <sup>2019-\*</sup>
+* PHP <sup>2006-\*</sup>
+* SQL <sup>2008-\*</sup>
+* MySQL <sup>2009-\*</sup>
 * RegEx <sup>2010-\*</sup>
 <!-- * OAuth <sup>2019-\*</sup> -->
 <!-- * JWT <sup>2019-\*</sup> -->
@@ -25,9 +26,8 @@
 <!-- * DOM <sup>2010-\*</sup> -->
 <!-- * JavaScript <sup>2010-2014</sup> -->
 <!-- * XML <sup>2008-2008</sup> -->
-* SQLite <sup>2006-*</sup>
+<!-- * SQLite <sup>2006-*</sup> -->
 <!-- * Delphi <sup>2006-2012</sup> -->
-* SQL <sup>2008-\*</sup>
 <!-- * Visual Basic <sup>2005-2006</sup> -->
 <!-- * CSS <sup>2005-\*</sup> -->
 <!-- * HTML <sup>2003-\*</sup> -->
