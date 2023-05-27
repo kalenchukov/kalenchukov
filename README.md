@@ -259,6 +259,17 @@
 * Пакеты прикладных программ
 * Информационная безопасность
 
+## Сертификаты
+### Интенсив Java <sup>2023</sup>
+Организатор: [Y_Lab](https://ylab.io)
+
+Сертификат доступен [по ссылке](https://ylab.io/upload/certificates/java/eZaXHms6qWCPpNMvkZsj.pdf).
+
+### Введение в Linux <sup>2018</sup>
+Организатор: [Stepik](https://stepik.org/course/73), Bioinformatics Institute
+
+Сертификат доступен [по ссылке](https://stepik.org/cert/113430).
+
 ## Используемое ПО
 * GitHub <sup>2021-\*</sup>
 * DB Browser for SQLite <sup>2021-\*</sup>
