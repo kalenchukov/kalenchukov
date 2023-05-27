@@ -253,7 +253,7 @@
 * Firefox Developer Edition <sup>2019-\*</sup>
 * Nginx HTTP Server <sup>2019-\*</sup>
 * Sublime Text 3 <sup>2019-\*</sup>
-* OS Linux (Kubuntu) <sup>2018-\*</sup>
+* OS Linux <sup>2018-\*</sup>
    * Bash <sup>2018-\*</sup>
    * SSH <sup>2018-\*</sup>
 * phpMyAdmin <sup>2009-\*</sup>
