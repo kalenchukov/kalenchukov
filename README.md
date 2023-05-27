@@ -43,7 +43,6 @@
 <!-- ### Сейчас интересует -->
 <!-- * Apache Kafka -->
 <!-- * Kubernetes -->
-<!-- * RabbitMQ -->
 <!-- * JavaFX -->
 <!-- * Apache Tomcat -->
 <!-- * Gradle -->
@@ -76,7 +75,7 @@
 ## Методологии и технологии
 * Объектно-ориентированное программирование
 * Объектно-реляционное отображение
-* Паттерны проектирования
+* Шаблоны проектирования
 * SOLID
 * DRY
 
@@ -255,6 +254,8 @@
 * Nginx HTTP Server <sup>2019-\*</sup>
 * Sublime Text 3 <sup>2019-\*</sup>
 * OS Linux (Kubuntu) <sup>2018-\*</sup>
+   * Bash <sup>2018-\*</sup>
+   * SSH <sup>2018-\*</sup>
 * phpMyAdmin <sup>2009-\*</sup>
 * Apache HTTP Server <sup>2008-2019</sup>
 * Opera <sup>2008-2018</sup>
