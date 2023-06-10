@@ -13,6 +13,8 @@
     * JDBC <sup>2020-\*</sup>
     * Hibernate <sup>2020-\*</sup>
     * Log4j <sup>2020-\*</sup>
+    * Swagger <sup>2023-\*</sup>
+    * Flyway <sup>2023-\*</sup>
     * Lombok <sup>2022-\*</sup>
 * Git <sup>2020-\*</sup>
 * PostgreSQL <sup>2023-\*</sup>
