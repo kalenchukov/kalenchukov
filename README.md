@@ -83,6 +83,23 @@
 * DRY
 
 ## Некоторые проекты
+### ShortLinks <sup>2023-\*</sup>
+Сервис коротких ссылок.
+
+Исходный код и подробности по [ссылке на GitHub](https://github.com/kalenchukov/ShortLinks).
+
+Используемые технологии:
+* Java
+* Spring Boot
+* PostgreSQL
+* Hibernate Validator
+* Log4j
+* JUnit
+* Mockito
+* AssertJ
+* Flyway
+* Swagger
+
 ### Lemna Validation <sup>2022-\*</sup>
 Проект по проверке значений полей классов.
 
