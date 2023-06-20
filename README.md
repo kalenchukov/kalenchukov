@@ -113,6 +113,7 @@
 * Log4j
 * RegEx
 * JUnit
+* AssertJ
 
 ### Lemna Injection <sup>2022</sup>
 Проект по внедрению значений в поля классов.
@@ -126,6 +127,7 @@
 * Apache Maven
 * Log4j
 * JUnit
+* AssertJ
 
 ### Lemna Changing <sup>2022</sup>
 Проект по изменению значений полей классов.
@@ -139,6 +141,7 @@
 * Apache Maven
 * Log4j
 * JUnit
+* AssertJ
 
 ### AnnotationScanning <sup>2021</sup>
 Проект по поиску аннотированных классов.
@@ -151,6 +154,7 @@
 * Log4j
 * RegEx
 * JUnit
+* AssertJ
 
 ### UserAgentParsing <sup>2021</sup>
 Проект по получению информации о клиенте по строке user-agent.
@@ -164,6 +168,7 @@
 * Apache Maven
 * RegEx
 * JUnit
+* AssertJ
 
 ### Веб-сервер <sup>2017</sup>
 В качестве веб-сервера для разработок и Git-репозитория настроил ПК, который использую по сей день.
