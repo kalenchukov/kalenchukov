@@ -9,6 +9,7 @@
         * Data
     * JUnit <sup>2021-\*</sup>
     * Mockito <sup>2022-\*</sup>
+    * AssertJ <sup>2023-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
     * JDBC <sup>2020-\*</sup>
     * Hibernate <sup>2020-\*</sup>
