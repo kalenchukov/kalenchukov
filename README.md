@@ -101,6 +101,19 @@
 * Flyway
 * Swagger
 
+### Lemna Framework <sup>2021-\*</sup>
+Сейчас занимаюсь разработкой фреймворка для создания REST API приложений. Делаю его для себя, просто интересно.
+
+Используемые технологии:
+* Java
+* Apache Maven
+* Log4j
+* RegEx
+* JSON
+* JUnit
+* Mockito
+* AssertJ
+
 ### Lemna Validation <sup>2022-\*</sup>
 Проект по проверке значений полей классов.
 
