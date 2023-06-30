@@ -311,7 +311,7 @@
 ## Используемое ПО
 * GitHub <sup>2021-\*</sup>
 * DB Browser for SQLite <sup>2021-\*</sup>
-* Dbeaver <sup>2023-\*</sup>
+* DBeaver <sup>2023-\*</sup>
 * PHPStorm <sup>2021-\*</sup>
 * Intellij IDEA <sup>2020-\*</sup>
 * SmartGit <sup>2020-2021</sup>
