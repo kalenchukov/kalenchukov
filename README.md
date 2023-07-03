@@ -100,19 +100,20 @@
 * AssertJ
 * Flyway
 * Swagger
+* Apache Maven
 
 ### Lemna Framework <sup>2021-\*</sup>
 Сейчас занимаюсь разработкой фреймворка для создания REST API приложений. Делаю его для себя, просто интересно.
 
 Используемые технологии:
 * Java
-* Apache Maven
 * Log4j
 * RegEx
 * JSON
 * JUnit
 * Mockito
 * AssertJ
+* Apache Maven
 
 ### Lemna Validation <sup>2022-\*</sup>
 Проект по проверке значений полей классов.
@@ -123,11 +124,11 @@
 
 Используемые технологии:
 * Java
-* Apache Maven
 * Log4j
 * RegEx
 * JUnit
 * AssertJ
+* Apache Maven
 
 ### Lemna Injection <sup>2022</sup>
 Проект по внедрению значений в поля классов.
@@ -138,10 +139,10 @@
 
 Используемые технологии:
 * Java
-* Apache Maven
 * Log4j
 * JUnit
 * AssertJ
+* Apache Maven
 
 ### Lemna Changing <sup>2022</sup>
 Проект по изменению значений полей классов.
@@ -152,10 +153,10 @@
 
 Используемые технологии:
 * Java
-* Apache Maven
 * Log4j
 * JUnit
 * AssertJ
+* Apache Maven
 
 ### AnnotationScanning <sup>2021</sup>
 Проект по поиску аннотированных классов.
@@ -164,11 +165,11 @@
 
 Используемые технологии:
 * Java
-* Apache Maven
 * Log4j
 * RegEx
 * JUnit
 * AssertJ
+* Apache Maven
 
 ### UserAgentParsing <sup>2021</sup>
 Проект по получению информации о клиенте по строке user-agent.
@@ -179,10 +180,10 @@
 
 Используемые технологии:
 * Java
-* Apache Maven
 * RegEx
 * JUnit
 * AssertJ
+* Apache Maven
 
 ### Веб-сервер <sup>2017</sup>
 В качестве веб-сервера для разработок и Git-репозитория настроил ПК, который использую по сей день.
