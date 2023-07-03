@@ -321,10 +321,10 @@
 * Nginx HTTP Server <sup>2019-\*</sup>
 * Sublime Text 3 <sup>2019-\*</sup>
 * OS Linux <sup>2018-\*</sup>
-   * Bash <sup>2018-\*</sup>
-   * SSH <sup>2018-\*</sup>
+* Bash <sup>2018-\*</sup>
+* SSH <sup>2018-\*</sup>
 * phpMyAdmin <sup>2009-\*</sup>
-* Apache HTTP Server <sup>2008-2019</sup>
+* Apache HTTP Server <sup>2008-2018</sup>
 * Opera <sup>2008-2018</sup>
 * PSPad <sup>2006-2018</sup>
 * OS Windows <sup>2000-2018</sup>
