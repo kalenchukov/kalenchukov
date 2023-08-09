@@ -6,6 +6,10 @@
       * Boot
       * Data
    * RabbitMQ <sup>2023-\*</sup>
+   * PostgreSQL <sup>2023-\*</sup>
+   * SQLite <sup>2021-*</sup>
+   * H2 <sup>2022-\*</sup>
+   * MySQL <sup>2021-\*</sup>
    * JUnit <sup>2021-\*</sup>
    * Mockito <sup>2022-\*</sup>
    * AssertJ <sup>2023-\*</sup>
@@ -18,10 +22,6 @@
    * Lombok <sup>2022-\*</sup>
 * Git <sup>2020-\*</sup>
 * SQL <sup>2006-\*</sup>
-   * PostgreSQL <sup>2023-\*</sup>
-   * MySQL <sup>2009-\*</sup>
-   * H2 <sup>2022-\*</sup>
-   * SQLite <sup>2006-*</sup>
 * REST API <sup>2019-\*</sup>
 * RegEx <sup>2010-\*</sup>
 * OAuth <sup>2019-\*</sup>
@@ -34,7 +34,9 @@
    * AJAX <sup>2010-\*</sup>
    * DOM <sup>2010-\*</sup>
 * PHP <sup>2006-\*</sup>
+   * MySQL <sup>2009-\*</sup>
 * Delphi <sup>2006-2012</sup>
+   * SQLite <sup>2006-2012</sup>
 * Visual Basic <sup>2005-2006</sup>
 <!-- * JavaDoc <sup>2020-\*</sup> -->
 <!-- * Thymeleaf <sup>2022-\*</sup> -->
