@@ -17,13 +17,12 @@
     * Lombok <sup>2022-\*</sup>
 * Git <sup>2020-\*</sup>
 * RabbitMQ <sup>2023-\*</sup>
-* REST API <sup>2019-\*</sup>
-* PHP <sup>2006-\*</sup>
 * SQL <sup>2006-\*</sup>
    * PostgreSQL <sup>2023-\*</sup>
    * MySQL <sup>2009-\*</sup>
    * H2 <sup>2022-\*</sup>
    * SQLite <sup>2006-*</sup>
+* REST API <sup>2019-\*</sup>
 * RegEx <sup>2010-\*</sup>
 * OAuth <sup>2019-\*</sup>
 * JWT <sup>2019-\*</sup>
@@ -34,6 +33,7 @@
 * JavaScript <sup>2010-2014</sup>
    * AJAX <sup>2010-\*</sup>
    * DOM <sup>2010-\*</sup>
+* PHP <sup>2006-\*</sup>
 * Delphi <sup>2006-2012</sup>
 * Visual Basic <sup>2005-2006</sup>
 <!-- * JavaDoc <sup>2020-\*</sup> -->
