@@ -19,7 +19,7 @@
 * RabbitMQ <sup>2023-\*</sup>
 * REST API <sup>2019-\*</sup>
 * PHP <sup>2006-\*</sup>
-* SQL <sup>2008-\*</sup>
+* SQL <sup>2006-\*</sup>
    * PostgreSQL <sup>2023-\*</sup>
    * MySQL <sup>2009-\*</sup>
    * H2 <sup>2022-\*</sup>
