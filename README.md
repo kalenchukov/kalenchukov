@@ -1,22 +1,22 @@
 ## Используемые технологии
 * Java <sup>2020-\*</sup>
-    * Spring Framework <sup>2021-\*</sup>
-        * Core
-        * MVC
-        * Boot
-        * Data
-    * JUnit <sup>2021-\*</sup>
-    * Mockito <sup>2022-\*</sup>
-    * AssertJ <sup>2023-\*</sup>
-    * Apache Maven <sup>2021-\*</sup>
-    * JDBC <sup>2020-\*</sup>
-    * Hibernate <sup>2020-\*</sup>
-    * Log4j <sup>2020-\*</sup>
-    * Swagger <sup>2023-\*</sup>
-    * Flyway <sup>2023-\*</sup>
-    * Lombok <sup>2022-\*</sup>
+   * Spring Framework <sup>2021-\*</sup>
+      * Core
+      * MVC
+      * Boot
+      * Data
+   * RabbitMQ <sup>2023-\*</sup>
+   * JUnit <sup>2021-\*</sup>
+   * Mockito <sup>2022-\*</sup>
+   * AssertJ <sup>2023-\*</sup>
+   * Apache Maven <sup>2021-\*</sup>
+   * JDBC <sup>2020-\*</sup>
+   * Hibernate <sup>2020-\*</sup>
+   * Log4j <sup>2020-\*</sup>
+   * Swagger <sup>2023-\*</sup>
+   * Flyway <sup>2023-\*</sup>
+   * Lombok <sup>2022-\*</sup>
 * Git <sup>2020-\*</sup>
-* RabbitMQ <sup>2023-\*</sup>
 * SQL <sup>2006-\*</sup>
    * PostgreSQL <sup>2023-\*</sup>
    * MySQL <sup>2009-\*</sup>
