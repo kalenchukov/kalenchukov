@@ -6,7 +6,6 @@
         * Boot
            * Starter
         * Data
-    * Docker <sup>2023-\*</sup>
     * RabbitMQ <sup>2023-\*</sup>
     * PostgreSQL <sup>2023-\*</sup>
     * SQLite <sup>2021-*</sup>
@@ -24,6 +23,7 @@
     * Flyway <sup>2023-\*</sup>
     * Liquibase <sup>2023-\*</sup>
     * Lombok <sup>2022-\*</sup>
+* Docker <sup>2023-\*</sup>
 * Git <sup>2020-\*</sup>
 * SQL <sup>2006-\*</sup>
 * REST API <sup>2019-\*</sup>
