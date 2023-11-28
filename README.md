@@ -4,7 +4,9 @@
         * Core
         * MVC
         * Boot
+           * Starter
         * Data
+    * Docker <sup>2023-\*</sup>
     * RabbitMQ <sup>2023-\*</sup>
     * PostgreSQL <sup>2023-\*</sup>
     * SQLite <sup>2021-*</sup>
@@ -13,12 +15,14 @@
     * JUnit <sup>2021-\*</sup>
     * Mockito <sup>2022-\*</sup>
     * AssertJ <sup>2023-\*</sup>
+    * Test-containers <sup>2023-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
     * JDBC <sup>2020-\*</sup>
     * Hibernate <sup>2020-\*</sup>
     * Log4j <sup>2020-\*</sup>
     * Swagger <sup>2023-\*</sup>
     * Flyway <sup>2023-\*</sup>
+    * Liquibase <sup>2023-\*</sup>
     * Lombok <sup>2022-\*</sup>
 * Git <sup>2020-\*</sup>
 * SQL <sup>2006-\*</sup>
@@ -30,6 +34,7 @@
 * HTML <sup>2003-\*</sup>
 * XML <sup>2008-2008</sup>
 * JSON <sup>2011-\*</sup>
+* YAML <sup>2023-\*</sup>
 * JavaScript <sup>2010-2014</sup>
     * AJAX <sup>2010-\*</sup>
     * DOM <sup>2010-\*</sup>
@@ -300,6 +305,11 @@
 * Информационная безопасность
 
 ## Сертификаты
+### Интенсив Java <sup>2023</sup>
+Организатор: [Y_Lab](https://ylab.io)
+
+Сертификат доступен [по ссылке](https://ylab.io/upload/certificates/java/MqYmt80Qy1bEih74idqK.pdf).
+
 ### Интенсив Java <sup>2023</sup>
 Организатор: [Y_Lab](https://ylab.io)
 
