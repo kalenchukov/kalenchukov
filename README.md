@@ -87,6 +87,7 @@
 * Чистый код
 * SOLID
 * DRY
+* GitFlow
 
 ## Некоторые проекты
 ### ShortLinks <sup>2023-\*</sup>
