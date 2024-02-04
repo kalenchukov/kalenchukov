@@ -321,12 +321,14 @@
 Сертификат доступен [по ссылке](https://ylab.io/upload/certificates/java/eZaXHms6qWCPpNMvkZsj.pdf).
 
 ### Введение в Linux <sup>2018</sup>
-Организатор: [Stepik](https://stepik.org/course/73), Bioinformatics Institute
+Организатор: [Bioinformatics Institute](https://stepik.org/course/73)
 
-Сертификат доступен [по ссылке](https://stepik.org/cert/113430).
+Сертификат доступен [по ссылке](https://stepik.org/certificate/5847e6b8977148ad640806f3cc4d8fecbf4cc579.pdf).
 
 ## Используемое ПО
 * GitHub <sup>2021-\*</sup>
+* GitLab <sup>2024-\*</sup>
+* Docker <sup>2023-\*</sup>
 * DB Browser for SQLite <sup>2021-\*</sup>
 * DBeaver <sup>2023-\*</sup>
 * PHPStorm <sup>2021-\*</sup>
