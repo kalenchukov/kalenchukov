@@ -35,7 +35,7 @@
 * JWT <sup>2019-\*</sup>
 * CSS <sup>2005-\*</sup>
 * HTML <sup>2003-\*</sup>
-* XML <sup>2008-2008</sup>
+* XML <sup>2008-\*</sup>
 * JSON <sup>2011-\*</sup>
 * YAML <sup>2023-\*</sup>
 * HTTP <sup>2010-\*</sup>
@@ -329,6 +329,7 @@
 * GitHub <sup>2021-\*</sup>
 * GitLab <sup>2024-\*</sup>
 * Docker <sup>2023-\*</sup>
+* Git <sup>2020-\*</sup>
 * DB Browser for SQLite <sup>2021-\*</sup>
 * DBeaver <sup>2023-\*</sup>
 * PHPStorm <sup>2021-\*</sup>
