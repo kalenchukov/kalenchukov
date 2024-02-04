@@ -112,19 +112,6 @@
 * Swagger
 * Apache Maven
 
-### Lemna Framework <sup>2021-\*</sup>
-Сейчас занимаюсь разработкой фреймворка для создания REST API приложений. Делаю его для себя, просто интересно.
-
-Используемые технологии:
-* Java
-* Log4j
-* RegEx
-* JSON
-* JUnit
-* Mockito
-* AssertJ
-* Apache Maven
-
 ### Lemna Validation <sup>2022-\*</sup>
 Проект по проверке значений полей классов.
 
