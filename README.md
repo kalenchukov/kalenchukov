@@ -6,7 +6,10 @@
         * Boot
            * Starter
         * Data
+        * Kafka
+        * Mail
     * RabbitMQ <sup>2023-\*</sup>
+    * Kafka Connect <sup>2024-\*</sup>
     * PostgreSQL <sup>2023-\*</sup>
     * SQLite <sup>2021-*</sup>
     * H2 <sup>2022-\*</sup>
@@ -14,7 +17,7 @@
     * JUnit <sup>2021-\*</sup>
     * Mockito <sup>2022-\*</sup>
     * AssertJ <sup>2023-\*</sup>
-    * Test-containers <sup>2023-\*</sup>
+    * TestContainers <sup>2023-\*</sup>
     * Apache Maven <sup>2021-\*</sup>
     * JDBC <sup>2020-\*</sup>
     * Hibernate <sup>2020-\*</sup>
@@ -35,6 +38,7 @@
 * XML <sup>2008-2008</sup>
 * JSON <sup>2011-\*</sup>
 * YAML <sup>2023-\*</sup>
+* HTTP <sup>2010-\*</sup>
 * JavaScript <sup>2010-2014</sup>
     * AJAX <sup>2010-\*</sup>
     * DOM <sup>2010-\*</sup>
