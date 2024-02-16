@@ -1,13 +1,6 @@
 ## Используемые технологии
 * Java <sup>2020-\*</sup>
     * Spring Framework <sup>2021-\*</sup>
-        * Core
-        * MVC
-        * Boot
-           * Starter
-        * Data
-        * Kafka
-        * Mail
     * RabbitMQ <sup>2023-\*</sup>
     * Kafka Connect <sup>2024-\*</sup>
     * PostgreSQL <sup>2023-\*</sup>
