@@ -2,8 +2,8 @@
 * Java <sup>2020-\*</sup>
     * Spring Framework <sup>2021-\*</sup>
     * RabbitMQ <sup>2023-\*</sup>
-    * Kafka Connect <sup>2024-\*</sup>
     * PostgreSQL <sup>2023-\*</sup>
+    * Kafka <sup>2023-\*</sup>
     * SQLite <sup>2021-*</sup>
     * H2 <sup>2022-\*</sup>
     * MySQL <sup>2021-\*</sup>
@@ -20,6 +20,7 @@
     * Liquibase <sup>2023-\*</sup>
     * Lombok <sup>2022-\*</sup>
 * Docker <sup>2023-\*</sup>
+* Kafka Connect <sup>2024-\*</sup>
 * Git <sup>2020-\*</sup>
 * SQL <sup>2006-\*</sup>
 * REST API <sup>2019-\*</sup>
