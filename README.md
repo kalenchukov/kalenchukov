@@ -15,7 +15,7 @@
     * JDBC <sup>2020-\*</sup>
     * Hibernate <sup>2020-\*</sup>
     * Log4j <sup>2020-\*</sup>
-    * Swagger <sup>2023-\*</sup>
+    * Swagger (Open API) <sup>2023-\*</sup>
     * Flyway <sup>2023-\*</sup>
     * Liquibase <sup>2023-\*</sup>
     * Lombok <sup>2022-\*</sup>
