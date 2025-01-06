@@ -30,7 +30,7 @@
 * CSS <sup>2005-\*</sup>
 * HTML <sup>2003-\*</sup>
 * XML <sup>2008-\*</sup>
-* JSON <sup>2011-\*</sup>
+* JSON <sup>2010-\*</sup>
 * YAML <sup>2023-\*</sup>
 * HTTP <sup>2010-\*</sup>
 * JavaScript <sup>2010-2014</sup>
